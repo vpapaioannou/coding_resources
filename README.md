@@ -1,4 +1,4 @@
-A collection of coding resources. If anything is missing or a link is broken please create an issue [here](https://github.com/vpapaioannou/coding_resources/issues).
+A collection of coding resources. In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/coding_resources/issues).
 
 # IDE
 
