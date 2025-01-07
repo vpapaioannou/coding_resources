@@ -1,4 +1,5 @@
-A collection of coding resources. In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/coding_resources/issues).
+A collection of coding resources and issues encountered.
+In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/coding_resources/issues).
 
 # IDE - Integrated Development Environment
 
@@ -46,14 +47,16 @@ for Data Science and AI.
 # Coding
 
 - Python
+  - Books
+    - [Fluent Python: Clear, Concise, and Effective Programming 1st Edition](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_4)
+  - [Awesome Python](https://github.com/vinta/awesome-python) An opinionated list of awesome Python frameworks, libraries, software and resources.
   - [Assertions (w/ variables)](https://www.journaldev.com/15791/python-assert)
   - [Logging](https://realpython.com/python-logging/)
   - [Delete created variables, functions, etc from the memory of the interpreter to avoid running out of memory while running code](https://stackoverflow.com/questions/26545051/is-there-a-way-to-delete-created-variables-functions-etc-from-the-memory-of-th)
 - R
   - [ggplot2 Background](http://felixfan.github.io/ggplot2-remove-grid-background-margin/)
-  - [Tests I](https://www.r-bloggers.com/t-tests/)
-  - [Tests II](https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/)
-  - [Boxplot and its pitfalls](https://www.data-to-viz.com/caveat/boxplot.html)
+  - [Statistical Tests I](https://www.r-bloggers.com/t-tests/)
+  - [Statistical Tests II](https://www.r-bloggers.com/add-p-values-and-significance-levels-to-ggplots/)
   - [Dynamic ggplot2 graphs (histograms) with same scale](https://stackoverflow.com/questions/60438297/r-histograms-with-shared-same-x-and-y-axes/60438728?noredirect=1#comment107179917_60438728)
   - [Variable name in functions using rlang::sym](https://linogaliana.netlify.app/post/datatable/datatable-nse/)
   - [Variable name in functions using {{}}](https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/)
